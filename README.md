@@ -9,8 +9,7 @@ Ce dépôt contient uniquement les **installateurs** et les fichiers de **mise �
 ## Télécharger
 
 - **Windows** : [installateur](https://github.com/ThomasHolley/pspeck-releases/releases/latest/download/PSpeck-Setup.exe) ou [version portable](https://github.com/ThomasHolley/pspeck-releases/releases/latest/download/PSpeck-Portable.exe) (sans installation, pour dépanner un poste). Windows 10 ou 11, sans droits administrateur. L'installateur n'est pas signé : SmartScreen peut demander « Informations complémentaires » → « Exécuter quand même ».
-- **Mac Apple Silicon** (M1 à M4…) : [PSpeck-mac-apple-silicon.dmg](https://github.com/ThomasHolley/pspeck-releases/releases/latest/download/PSpeck-mac-apple-silicon.dmg)
-- **Mac Intel** : [PSpeck-mac-intel.dmg](https://github.com/ThomasHolley/pspeck-releases/releases/latest/download/PSpeck-mac-intel.dmg)
+- **Mac** (Apple Silicon et Intel, application universelle) : [PSpeck-mac.dmg](https://github.com/ThomasHolley/pspeck-releases/releases/latest/download/PSpeck-mac.dmg)
 
 Sur Mac, ouvrez le DMG et glissez PSpeck dans Applications. L'application est signée et notarisée par Apple.
 
